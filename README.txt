@@ -1,0 +1,1 @@
+This is an AES encryption test based on SX1278 packet transmission.
